@@ -7,5 +7,11 @@ diseño.html
 .vscode/
 .idea/
 .DS_Store
-android/
-ios/
+
+# Capacitor native folders should be committed, but ignore their build artifacts
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/app/release/
+android/app/debug/
