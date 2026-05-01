@@ -1,0 +1,6 @@
+{
+  "appId": "com.antigravity.onehabit",
+  "appName": "One Habit",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

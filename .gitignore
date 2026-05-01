@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.gradle/
+*.apk
+github.txt
+diseño.html
+.vscode/
+.idea/
+.DS_Store
+android/
+ios/
